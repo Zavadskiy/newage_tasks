@@ -1,0 +1,10 @@
+requests
+gspread
+Pillow
+google-auth
+pandas
+selenium
+beautifulsoup4
+webdriver-manager
+gspread
+google-cloud-bigquery
